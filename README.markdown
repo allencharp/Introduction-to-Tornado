@@ -1,3 +1,8 @@
+The sample code use Twitter.com and Facebook.com URL
+In China, for some reasons both the sites can't be accessed
+So, I replaced with weibo and other sites for sample
+
+
 # [Introduction to Tornado](http://shop.oreilly.com/product/0636920021292.do)
 _by Michael Dory, Adam Parrish, and Brendan Berg_
 
